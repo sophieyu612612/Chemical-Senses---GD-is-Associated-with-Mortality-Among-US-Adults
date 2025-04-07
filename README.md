@@ -6,7 +6,7 @@ https://www.cdc.gov/nchs/data-linkage/mortality-public.htm
 
 How to replicate results
 1. Download this repository.
-2. Download data from the above websites
-3. Download the sample code from the NDI data linkage website
-4. Set data path within the repository code
-5. Run scripts
+2. Download data from the above websites.
+3. Download the sample code from the NDI data linkage website.
+4. Set data path within the repository code.
+5. Run scripts.
